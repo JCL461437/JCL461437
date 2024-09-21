@@ -7,6 +7,7 @@
 - ⚡ Fun fact: My alias is Space Monkey....
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCL461437)](https://github.com/JCL461437/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCL461437&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!---
 JCL461437/JCL461437 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
