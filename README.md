@@ -1,3 +1,4 @@
+## Basic Info
 - 👋 Hi, I’m Jan Lehigh.
 - 👀 I’m interested in ...programming, philosophy, submission grappling, and MMA. 
 - 🌱 I’m currently learning ...Ruby, Ruby on Rails, HTML, CSS, SQL, and Python when I have the chance. 
