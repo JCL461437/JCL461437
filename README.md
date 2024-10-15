@@ -1,7 +1,7 @@
 ## Basic Info
 - 👋 Hi, I’m Jan Lehigh.
 - 👀 I’m interested in ...programming, philosophy, submission grappling, and MMA. 
-- 🌱 I’m currently learning ...Ruby, Ruby on Rails, HTML, CSS, SQL, and Python when I have the chance. 
+- 🌱 I’m currently learning ...Python. 
 - 💞️ I’m looking to collaborate on ...anything. Best able to work on Ruby and Rails applications but happy to work on anything. 
 - 📫 How to reach me: Via my email, janlehigh461437@gmail.com
 - 😄 Pronouns: He/Him
